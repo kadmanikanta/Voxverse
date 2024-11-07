@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 __version__ = "0.0.0"
 
-REPO_NAME = "VOXVORSE"
+REPO_NAME = "Voxverse"
 AUTHOR_USER_NAME = "manikanta"
 SRC_REPO = "voxvorse"
 AUTHOR_EMAIL = "kadambamanikanta311@gmail.com"
